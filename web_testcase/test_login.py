@@ -22,7 +22,8 @@ class TestLogin2:
 
     def test_login_02(self):
         print("小菜鸟02")
-
+        print("1234")
+        print("ok")
 
 
 if __name__ == "__main__":
